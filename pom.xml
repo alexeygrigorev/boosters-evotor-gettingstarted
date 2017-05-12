@@ -75,9 +75,9 @@
     </dependency>
 
     <dependency>
-      <groupId>ml.dmlc.xgboost</groupId>
+      <groupId>ml.dmlc</groupId>
       <artifactId>xgboost4j</artifactId>
-      <version>0.7-SNAPSHOT</version>
+      <version>0.7</version>
     </dependency>
 
     <!-- Tests -->
